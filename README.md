@@ -18,9 +18,12 @@ Esta versión solo admite melodías monofónicas y fue entrenada con secuencias 
 1. El primer paso para empezar a utilizar nuestro proyecto para generar notas es descargar el repositorio suministrado en la parte de arriba y dentro de nuestro IDE ubicar la carpeta: generando-melodías. Modificar el código suministrado abajo con la ruta de descarga de tu ordenador.
     `cd C:\Users\user\Downloads\nombredelzip`
 
+2. Crear un entorno virtual para las dependencias con:
+    `python -m venv entorno-examen`
+
 2. Abrir el entorno virtual que se encuentra dentro de esta carpeta con el       
 siguiente script:
-    `.\examen\Scripts\Activate`
+    `.\entorno-examen\Scripts\activate`
 
 3. Instalar las librerias necesarias dentro del entorno virtual de ser necesario con el siguiente script.
      `pip install -r librerias.txt`
