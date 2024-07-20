@@ -16,7 +16,7 @@ Esta versión solo admite melodías monofónicas y fue entrenada con secuencias 
 
 ## **CÓMO INSTALAR EL ENTORNO**
 1. El primer paso para empezar a utilizar nuestro proyecto para generar notas es descargar el repositorio suministrado en la parte de arriba y dentro de nuestro IDE ubicar la carpeta: generando-melodías. Modificar el código suministrado abajo con la ruta de descarga de tu ordenador.
-    `cd C:\Users\user\Downloads\generando-melodias-piano`
+    `cd C:\Users\user\Downloads\nombredelzip`
 
 2. Abrir el entorno virtual que se encuentra dentro de esta carpeta con el       
 siguiente script:
